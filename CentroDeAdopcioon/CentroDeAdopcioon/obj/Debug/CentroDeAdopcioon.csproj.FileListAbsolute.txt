@@ -1,0 +1,7 @@
+C:\Users\Soporte Tools\Documents\CentroDeAdopcioon\CentroDeAdopcioon\obj\Debug\CentroDeAdopcioon.csprojAssemblyReference.cache
+C:\Users\Soporte Tools\Documents\CentroDeAdopcioon\CentroDeAdopcioon\obj\Debug\CentroDeAdopcioon.csproj.CoreCompileInputs.cache
+C:\Users\Soporte Tools\Documents\CentroDeAdopcioon\CentroDeAdopcioon\bin\Debug\CentroDeAdopcioon.exe.config
+C:\Users\Soporte Tools\Documents\CentroDeAdopcioon\CentroDeAdopcioon\bin\Debug\CentroDeAdopcioon.exe
+C:\Users\Soporte Tools\Documents\CentroDeAdopcioon\CentroDeAdopcioon\bin\Debug\CentroDeAdopcioon.pdb
+C:\Users\Soporte Tools\Documents\CentroDeAdopcioon\CentroDeAdopcioon\obj\Debug\CentroDeAdopcioon.exe
+C:\Users\Soporte Tools\Documents\CentroDeAdopcioon\CentroDeAdopcioon\obj\Debug\CentroDeAdopcioon.pdb
